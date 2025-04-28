@@ -23,7 +23,7 @@
 // // } 
 
 // // let obj={
-// //     name:" jaya",
+// //     name:" j",
 // //     age: 22,
 // //     city: "chennai",
 // //      draw :function (){
