@@ -7,7 +7,7 @@
 // // }else if(marks>=65){
 // //     console.log("C Grade");
 // // }else if(marks>=45){
-// //     console.log("D Grade");
+// //     console.log("D Grade"):
 // // }
 // // else if(marks>=33){
 // //     console.log("E Grade");
